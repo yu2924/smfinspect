@@ -1,0 +1,459 @@
+7d	reserved for non-commercial use	non-commercial
+7e	Universal Non-Realtime	Universal Non-Realtime
+7f	Universal Realtime	Universal Realtime
+00 00 01	Time/Warner Interactive	Time/Warner Interactive
+00 00 02	Advanced Gravis Comp.	Advanced Gravis Comp.
+00 00 03	Media Vision	Media Vision
+00 00 04	Dornes Research Group	Dornes Research Group
+00 00 05	K-Muse	K-Muse
+00 00 06	Stypher	Stypher
+00 00 07	Digital Music Corp.	Digital Music Corp.
+00 00 08	IOTA Systems	IOTA Systems
+00 00 09	New England Digital	New England Digital
+00 00 0a	Artisyn	Artisyn
+00 00 0b	IVL Technologies	IVL Technologies
+00 00 0c	Southern Music Systems	Southern Music Systems
+00 00 0d	Lake Butler Sound Co.	Lake Butler Sound Co.
+00 00 0e	Alesis Studio Electronics	Alesis Studio Electronics
+00 00 0f	Sound Creation	Sound Creation
+00 00 10	DOD Electronics Corp.	DOD Electronics Corp.
+00 00 11	Studer-Editech	Studer-Editech
+00 00 12	Sonus	Sonus
+00 00 13	Temporal Acuity Products	Temporal Acuity Products
+00 00 14	Perfect Fretworks	Perfect Fretworks
+00 00 15	KAT Inc.	KAT Inc.
+00 00 16	Opcode Systems	Opcode Systems
+00 00 17	Rane Corporation	Rane Corporation
+00 00 18	Anadi Electronique	Anadi Electronique
+00 00 19	KMX	KMX
+00 00 1a	Allen & Heath Brenell	Allen & Heath Brenell
+00 00 1b	Peavey Electronics	Peavey Electronics
+00 00 1c	360 System	360 System
+00 00 1d	Spectrum Design	Spectrum Design
+00 00 1e	Marquis Music	Marquis Music
+00 00 1f	Zeta Systems	Zeta Systems
+00 00 20	Axxes	Axxes
+00 00 21	Orban	Orban
+00 00 22	Indian Valley Mfg.	Indian Valley Mfg.
+00 00 23	Triton	Triton
+00 00 24	KTI	KTI
+00 00 25	Breakaway Technologies	Breakaway Technologies
+00 00 26	CAE Inc.	CAE Inc.
+00 00 27	Harrison Systems Inc.	Harrison Systems Inc.
+00 00 28	Future Lab/Mark Kuo	Future Lab/Mark Kuo
+00 00 29	Rocktron Corporation	Rocktron Corporation
+00 00 2a	PianoDisc	PianoDisc
+00 00 2b	Cannon Research Group	Cannon Research Group
+00 00 2d	Rodgers Instrument Corp.	Rodgers Instrument Corp.
+00 00 2e	Blue Sky Logic	Blue Sky Logic
+00 00 2f	Encore Electronics	Encore Electronics
+00 00 30	Uptown	Uptown
+00 00 31	Voce	Voce
+00 00 32	CTI Audio	CTI Audio
+00 00 33	S & S Research	S & S Research
+00 00 34	Broderbund Software	Broderbund Software
+00 00 35	Allen Organ Co.	Allen Organ Co.
+00 00 37	Music Quest	Music Quest
+00 00 38	Aphex	Aphex
+00 00 39	Gallien Krueger	Gallien Krueger
+00 00 3a	IBM	IBM
+00 00 3b	Mark of the Unicorn	Mark of the Unicorn
+00 00 3c	Hotz Instruments	Hotz Instruments
+00 00 3d	ETA Lighting	ETA Lighting
+00 00 3e	NSI Corporation	NSI Corporation
+00 00 3f	Ad Lib	Ad Lib
+00 00 40	Richmond Sound Design	Richmond Sound Design
+00 00 41	Microsoft Corp	Microsoft Corp
+00 00 42	Software Toolworks	Software Toolworks
+00 00 43	Russ Jones / Niche	Russ Jones / Niche
+00 00 44	Intone	Intone
+00 00 45	Advanced Remote Tech.	Advanced Remote Tech.
+00 00 47	GT Electronics	GT Electronics
+00 00 49	Timeline Vista	Timeline Vista
+00 00 4a	Mesa Boogie Ltd.	Mesa Boogie Ltd.
+00 00 4c	Sequoia Development	Sequoia Development
+00 00 4d	Studio Electronics	Studio Electronics
+00 00 4e	Euphonix	Euphonix
+00 00 4f	InterMIDI	InterMIDI
+00 00 50	MIDI Solutions Inc.	MIDI Solutions Inc.
+00 00 51	3DO Company	3DO Company
+00 00 52	Lightwave Research	Lightwave Research
+00 00 53	Micro-W Corporation	Micro-W Corporation
+00 00 54	Spectral Synthesis	Spectral Synthesis
+00 00 55	Lone Wolf	Lone Wolf
+00 00 56	Studio Technologies Inc.	Studio Technologies Inc.
+00 00 57	Peterson Electro-Musical	Peterson Electro-Musical
+00 00 58	Atari Corporation	Atari Corporation
+00 00 59	Marion Systems	Marion Systems
+00 00 5a	Design Event	Design Event
+00 00 5b	Winjammer Software	Winjammer Software
+00 00 5c	AT&T Bell Laboratories	AT&T Bell Laboratories
+00 00 5e	Symetrix	Symetrix
+00 00 5f	MIDI the World	MIDI the World
+00 00 60	Desper Products	Desper Products
+00 00 61	Micros 'N MIDI	Micros 'N MIDI
+00 00 62	Accordians International	Accordians International
+00 00 63	EuPhonics	EuPhonics
+00 00 64	Musonix	Musonix
+00 00 65	Turtle Beach Systems	Turtle Beach Systems
+00 00 66	Mackie Designs	Mackie Designs
+00 00 67	Compuserve	Compuserve
+00 00 68	BEC Technologies	BEC Technologies
+00 00 69	QRS Music Rolls Inc	QRS Music Rolls Inc
+00 00 6a	P.G. Music	P.G. Music
+00 00 6b	Sierra Semiconductor	Sierra Semiconductor
+00 00 6c	EpiGraf Audio Visual	EpiGraf Audio Visual
+00 00 6d	Electronics Diversified Inc	Electronics Diversified Inc
+00 00 6e	Tune 1000	Tune 1000
+00 00 6f	Advanced Micro Devices	Advanced Micro Devices
+00 00 70	Mediamation	Mediamation
+00 00 71	Sabine Musical Mfg. Co.	Sabine Musical Mfg. Co.
+00 00 72	Woog Labs	Woog Labs
+00 00 73	Micropolis Corp	Micropolis Corp
+00 00 74	Ta Horng Musical Instrument	Ta Horng Musical Instrument
+00 00 75	e-Tek Labs (Forte Tech)	e-Tek Labs (Forte Tech)
+00 00 76	Electro-Voice	Electro-Voice
+00 00 77	Midisoft Corporation	Midisoft Corporation
+00 00 77	Midisoft Corporation	Midisoft Corporation
+00 00 78	QSound Labs	QSound Labs
+00 00 79	Westrex	Westrex
+00 00 79	Westrex	Westrex
+00 00 7a	Nvidia	Nvidia
+00 00 7b	ESS Technology	ESS Technology
+00 00 7c	Media Trix Peripherals	Media Trix Peripherals
+00 00 7d	Brooktree Corp	Brooktree Corp
+00 00 7e	Otari Corp	Otari Corp
+00 00 7f	Key Electronics, Inc.	Key Electronics, Inc.
+00 01 00	Shure incorporated	Shure incorporated
+00 01 01	AuraSound	AuraSound
+00 01 02	Crystal Semiconductor	Crystal Semiconductor
+00 01 03	Conexant (Rockwell)	Conexant (Rockwell)
+00 01 04	Silicon Graphics	Silicon Graphics
+00 01 05	M-Audio (Midiman)	M-Audio (Midiman)
+00 01 06	PreSonus	PreSonus
+00 01 08	Topaz Enterprises	Topaz Enterprises
+00 01 09	Cast Lighting	Cast Lighting
+00 01 0a	Microsoft	Microsoft
+00 01 0b	Sonic Foundry	Sonic Foundry
+00 01 0c	Line 6 (Fast Forward)	Line 6 (Fast Forward)
+00 01 0d	Beatnik Inc	Beatnik Inc
+00 01 0e	Van Koevering Company	Van Koevering Company
+00 01 0f	Altech Systems	Altech Systems
+00 01 10	S & S Research	S & S Research
+00 01 11	VLSI Technology	VLSI Technology
+00 01 12	Chromatic Research	Chromatic Research
+00 01 13	Sapphire	Sapphire
+00 01 14	IDRC	IDRC
+00 01 15	Justonic Tuning	Justonic Tuning
+00 01 16	TorComp Research Inc.	TorComp Research Inc.
+00 01 17	Newtek Inc.	Newtek Inc.
+00 01 18	Sound Sculpture	Sound Sculpture
+00 01 19	Walker Technical	Walker Technical
+00 01 1a	Digital Harmony (PAVO)	Digital Harmony (PAVO)
+00 01 1b	InVision Interactive	InVision Interactive
+00 01 1c	T-Square Design	T-Square Design
+00 01 1d	Nemesys Music Technology	Nemesys Music Technology
+00 01 1e	DBX Professional (Harman Intl)	DBX Professional (Harman Intl)
+00 01 1f	Syndyne Corporation	Syndyne Corporation
+00 01 20	Bitheadz	Bitheadz
+00 01 21	Cakewalk Music Software	Cakewalk Music Software
+00 01 22	Analog Devices	Analog Devices
+00 01 23	National Semiconductor	National Semiconductor
+00 01 24	Boom Theory / Adinolfi Alternative Percussion	Boom Theory / Adinolfi Alternative Percussion
+00 01 25	Virtual DSP Corporation	Virtual DSP Corporation
+00 01 26	Antares Systems	Antares Systems
+00 01 27	Angel Software	Angel Software
+00 01 28	St Louis Music	St Louis Music
+00 01 29	Lyrrus dba G-VOX	Lyrrus dba G-VOX
+00 01 2a	Ashley Audio Inc.	Ashley Audio Inc.
+00 01 2b	Vari-Lite Inc.	Vari-Lite Inc.
+00 01 2c	Summit Audio Inc.	Summit Audio Inc.
+00 01 2d	Aureal Semiconductor Inc.	Aureal Semiconductor Inc.
+00 01 2e	SeaSound LLC	SeaSound LLC
+00 01 2f	U.S. Robotics	U.S. Robotics
+00 01 30	Aurisis Research	Aurisis Research
+00 01 31	Nearfield Research	Nearfield Research
+00 01 32	FM7 Inc	FM7 Inc
+00 01 33	Swivel Systems	Swivel Systems
+00 01 34	Hyperactive Audio Systems	Hyperactive Audio Systems
+00 01 35	MidiLite (Castle Studios Productions)	MidiLite (Castle Studios Productions)
+00 01 36	Radikal Technologies	Radikal Technologies
+00 01 37	Roger Linn Design	Roger Linn Design
+00 01 38	TC-Helicon Vocal Technologies	TC-Helicon Vocal Technologies
+00 01 39	Event Electronics	Event Electronics
+00 01 3a	Sonic Network Inc	Sonic Network Inc
+00 01 3b	Realtime Music Solutions	Realtime Music Solutions
+00 01 3c	Apogee Digital	Apogee Digital
+00 01 3d	Classical Organs, Inc.	Classical Organs, Inc.
+00 01 3e	Microtools Inc.	Microtools Inc.
+00 01 3f	Numark Industries	Numark Industries
+00 01 40	Frontier Design Group, LLC	Frontier Design Group, LLC
+00 01 41	Recordare LLC	Recordare LLC
+00 01 42	Starr Labs	Starr Labs
+00 01 43	Voyager Sound Inc.	Voyager Sound Inc.
+00 01 44	Manifold Labs	Manifold Labs
+00 01 45	Aviom Inc.	Aviom Inc.
+00 01 46	Mixmeister Technology	Mixmeister Technology
+00 01 47	Notation Software	Notation Software
+00 01 48	Mercurial Communications	Mercurial Communications
+00 01 49	Wave Arts	Wave Arts
+00 01 4a	Logic Sequencing Devices	Logic Sequencing Devices
+00 01 4b	Axess Electronics	Axess Electronics
+00 01 4c	Muse Research	Muse Research
+00 01 4d	Open Labs	Open Labs
+00 01 4e	Guillemot R&D Inc	Guillemot R&D Inc
+00 01 4f	Samson Technologies	Samson Technologies
+00 01 50	Electronic Theatre Controls	Electronic Theatre Controls
+00 01 51	Research in Motion	Research in Motion
+00 01 52	Mobileer	Mobileer
+00 01 53	Synthogy	Synthogy
+00 01 54	Lynx Studio Technology Inc.	Lynx Studio Technology Inc.
+00 01 55	Damage Control Engineering LLC	Damage Control Engineering LLC
+00 01 56	Yost Engineering, Inc.	Yost Engineering, Inc.
+00 01 57	Brooks & Forsman Designs LLC / DrumLite	Brooks & Forsman Designs LLC / DrumLite
+00 01 58	Infinite Response	Infinite Response
+00 01 59	Garritan Corp	Garritan Corp
+00 01 5a	Plogue Art et Technologie, Inc	Plogue Art et Technologie, Inc
+00 01 5b	RJM Music Technology	RJM Music Technology
+00 01 5c	Custom Solutions Software	Custom Solutions Software
+00 01 5d	Sonarcana LLC	Sonarcana LLC
+00 01 5e	Centrance	Centrance
+00 01 5f	Kesumo LLC	Kesumo LLC
+00 01 60	Stanton	Stanton
+00 01 61	Livid Instruments	Livid Instruments
+00 01 62	First Act / 745 Media	First Act / 745 Media
+00 01 63	Pygraphics, Inc.	Pygraphics, Inc.
+00 01 64	Panadigm Innovations Ltd	Panadigm Innovations Ltd
+00 01 65	Avedis Zildjian Co	Avedis Zildjian Co
+00 01 66	Auvital Music Corp	Auvital Music Corp
+00 01 67	Inspired Instruments Inc	Inspired Instruments Inc
+00 01 68	Chris Grigg Designs	Chris Grigg Designs
+00 01 69	Slate Digital LLC	Slate Digital LLC
+00 01 70	American Audio/DJ	American Audio/DJ
+00 01 71	Mega Control Systems	Mega Control Systems
+00 01 72	Kilpatrick Audio	Kilpatrick Audio
+00 01 73	iConnectivity	iConnectivity
+00 01 74	Fractal Audio	Fractal Audio
+00 01 75	NetLogic Microsystems	NetLogic Microsystems
+00 01 76	Music Computing	Music Computing
+00 01 77	Nektar Technology Inc	Nektar Technology Inc
+00 01 78	Zenph Sound Innovations	Zenph Sound Innovations
+01	Sequential	Sequential
+02	IDP	IDP
+03	Voyetra Technologies	Voyetra Technologies
+04	Moog Music	Moog Music
+05	Passport Designs	Passport Designs
+06	Lexicon Inc.	Lexicon Inc.
+07	Kutzweil / Young Chang	Kutzweil / Young Chang
+08	Fender	Fender
+09	Gulbransen	Gulbransen
+0a	AKG Acoustics	AKG Acoustics
+0b	Voyce Music	Voyce Music
+0c	Waveframe Corp	Waveframe Corp
+0d	ADA Signal Processors	ADA Signal Processors
+0e	Garfield Electronics	Garfield Electronics
+0f	Ensoniq Corp.	Ensoniq Corp.
+10	Oberheim / Gibson Labs	Oberheim / Gibson Labs
+11	Apple Computer	Apple Computer
+12	Grey Matter Response	Grey Matter Response
+13	Digidesign Inc.	Digidesign Inc.
+14	Palmtree Instruments	Palmtree Instruments
+15	JLCooper Electronics	JLCooper Electronics
+16	Lowrey Organ Company	Lowrey Organ Company
+17	Adams-Smith	Adams-Smith
+18	Emu Systems Inc.	Emu Systems Inc.
+19	Harmony Systems	Harmony Systems
+1a	ART	ART
+1b	Baldwin	Baldwin
+1c	Eventide	Eventide
+1d	Inventronics	Inventronics
+1f	Clarity	Clarity
+00 20 29	Novation Digital Music System	Novation Digital Music System
+00 20 00	Dream	Dream
+00 20 01	Strand Lighting	Strand Lighting
+00 20 02	Amek Systems	Amek Systems
+00 20 03	Casa Di Risparmio Di Loreto	Casa Di Risparmio Di Loreto
+00 20 04	Bohm electronic GmbH	Bohm electronic GmbH
+00 20 05	Syntec Digital Audio	Syntec Digital Audio
+00 20 06	Trident Audio Developments	Trident Audio Developments
+00 20 07	Real World Studio	Real World Studio
+00 20 08	Evolution Synthesis	Evolution Synthesis
+00 20 09	Yes Technology	Yes Technology
+00 20 0a	Audiomatica	Audiomatica
+00 20 0b	Bontempi / Farfisa (COMUS)	Bontempi / Farfisa (COMUS)
+00 20 0c	F.B.T. Elettronica SpA	F.B.T. Elettronica SpA
+00 20 0d	MidiTemp GmbH	MidiTemp GmbH
+00 20 0e	LA Audio (Larking Audio)	LA Audio (Larking Audio)
+00 20 0f	Zero 88 Lighting Limited	Zero 88 Lighting Limited
+00 20 10	Micon Audio Electronics GmbH	Micon Audio Electronics GmbH
+00 20 11	Forefront Technology	Forefront Technology
+00 20 12	Studio Audio and Video Ltd.	Studio Audio and Video Ltd.
+00 20 13	Kenton Electronics	Kenton Electronics
+00 20 14	Celco Division of Electrosonic	Celco Division of Electrosonic
+00 20 15	ADB	ADB
+00 20 16	Marshall Products Limited	Marshall Products Limited
+00 20 17	DDA	DDA
+00 20 18	BSS Audio Ltd.	BSS Audio Ltd.
+00 20 19	MA Lighting Technology	MA Lighting Technology
+00 20 1a	Fatar SRL c/o Music Industries	Fatar SRL c/o Music Industries
+00 20 1c	Artisan Clasic Organ Inc.	Artisan Clasic Organ Inc.
+00 20 1d	Orla Spa	Orla Spa
+00 20 1e	Pinnacle Audio (Klark Teknik)	Pinnacle Audio (Klark Teknik)
+00 20 1f	TC Electronics	TC Electronics
+00 20 20	Doepfer Musikelektronik GmbH	Doepfer Musikelektronik GmbH
+00 20 21	Creative Technology Pte. Ltd. c/o	Creative Technology Pte. Ltd. c/o
+00 20 22	Seiyddo/Minami	Seiyddo/Minami
+00 20 23	Goldstar Co. Ltd.	Goldstar Co. Ltd.
+00 20 24	Midisoft s.a.s. di M.Cima & C	Midisoft s.a.s. di M.Cima & C
+00 20 25	Samick Musical Inst. Co. Ltd.	Samick Musical Inst. Co. Ltd.
+00 20 26	Penny and Giles	Penny and Giles
+00 20 27	Acorn Computer	Acorn Computer
+00 20 28	LSC Electronics Pty. Ltd.	LSC Electronics Pty. Ltd.
+00 20 29	Novation EMS	Novation EMS
+00 20 2a	Samkyung Mechatronics	Samkyung Mechatronics
+00 20 2b	Medeli Electronics Co.	Medeli Electronics Co.
+00 20 2c	Charlie Lab SRL	Charlie Lab SRL
+00 20 2d	Blue Chip Music Technology	Blue Chip Music Technology
+00 20 2e	BEE OH Corp	BEE OH Corp
+00 20 2f	LG Semicon America	LG Semicon America
+00 20 30	TESI	TESI
+00 20 31	EMAGIC	EMAGIC
+00 20 32	Behringer GmbH	Behringer GmbH
+00 20 33	Access Music Electronics	Access Music Electronics
+00 20 34	Synoptic	Synoptic
+00 20 35	Hanmesoft	Hanmesoft
+00 20 36	Terratec Electronic GmbH	Terratec Electronic GmbH
+00 20 37	Proel SpA	Proel SpA
+00 20 38	IBK MIDI	IBK MIDI
+00 20 39	IRCAM	IRCAM
+00 20 3a	Propellerhead Software	Propellerhead Software
+00 20 3b	Red Sound Systems Ltd	Red Sound Systems Ltd
+00 20 3c	Elektron ESI AB	Elektron ESI AB
+00 20 3d	Sintefex Audio	Sintefex Audio
+00 20 3e	MAM (Music and More)	MAM (Music and More)
+00 20 3f	Amsaro GmbH	Amsaro GmbH
+00 20 40	CDS Advanced Technology BV	CDS Advanced Technology BV
+00 20 41	Touched By Sound GmbH	Touched By Sound GmbH
+00 20 42	DSP Arts	DSP Arts
+00 20 43	Phil Rees Music Tech	Phil Rees Music Tech
+00 20 44	Stamer Muiskanlagen GmbH	Stamer Muiskanlagen GmbH
+00 20 45	Musical Muntaner S.A. dba Soundart	Musical Muntaner S.A. dba Soundart
+00 20 46	C-Mexx Software	C-Mexx Software
+00 20 47	Klavis Technologies	Klavis Technologies
+00 20 48	Noteheads AB	Noteheads AB
+00 20 49	Algorithmix	Algorithmix
+00 20 4a	Skrydstrup R&D	Skrydstrup R&D
+00 20 4b	Professional Audio Company	Professional Audio Company
+00 20 4c	NewWave Labs (MadWaves)	NewWave Labs (MadWaves)
+00 20 4d	Vermona	Vermona
+00 20 4e	Nokia	Nokia
+00 20 4f	Wave Idea	Wave Idea
+00 20 50	Hartmann GmbH	Hartmann GmbH
+00 20 51	Lion's Tracs	Lion's Tracs
+00 20 52	Analogue Systems	Analogue Systems
+00 20 53	Focal-JMlab	Focal-JMlab
+00 20 54	Ringway Electronics (Chang-Zhou) Co Ltd	Ringway Electronics (Chang-Zhou) Co Ltd
+00 20 55	Faith Technologies (Digiplug)	Faith Technologies (Digiplug)
+00 20 56	Showworks	Showworks
+00 20 57	Manikin Electronic	Manikin Electronic
+00 20 58	1 Come Tech	1 Come Tech
+00 20 59	Phonic Corp	Phonic Corp
+00 20 5a	Dolby Australia (Lake)	Dolby Australia (Lake)
+00 20 5b	Silansys Technologies	Silansys Technologies
+00 20 5c	Winbond Electronics	Winbond Electronics
+00 20 5d	Cinetix Medien und Interface GmbH	Cinetix Medien und Interface GmbH
+00 20 5e	A&G Soluzioni Digitali	A&G Soluzioni Digitali
+00 20 5f	Sequentix Music Systems	Sequentix Music Systems
+00 20 60	Oram Pro Audio	Oram Pro Audio
+00 20 61	Be4 Ltd	Be4 Ltd
+00 20 62	Infection Music	Infection Music
+00 20 63	Central Music Co. (CME)	Central Music Co. (CME)
+00 20 64	genoQs Machines GmbH	genoQs Machines GmbH
+00 20 65	Medialon	Medialon
+00 20 66	Waves Audio Ltd	Waves Audio Ltd
+00 20 67	Jerash Labs	Jerash Labs
+00 20 68	Da Fact	Da Fact
+00 20 69	Elby Designs	Elby Designs
+00 20 6a	Spectral Audio	Spectral Audio
+00 20 6b	Arturia	Arturia
+00 20 6c	Vixid	Vixid
+00 20 6d	C-Thru Music	C-Thru Music
+00 20 6e	Ya Horng Electronic Co LTD	Ya Horng Electronic Co LTD
+00 20 6f	SM Pro Audio	SM Pro Audio
+00 20 70	OTO MACINES	OTO MACINES
+00 20 71	ELZAB S.A., G LAB	ELZAB S.A., G LAB
+00 20 72	Blackstar Amplification Ltd	Blackstar Amplification Ltd
+00 20 73	M3i Technologies GmbH	M3i Technologies GmbH
+00 20 74	Xiring	Xiring
+00 20 75	Prostage SL	Prostage SL
+00 20 76	Teenage Engineering	Teenage Engineering
+00 20 77	Tobias Erichsen	Tobias Erichsen
+00 20 78	Nixer Ltd	Nixer Ltd
+00 20 79	Hanpin Electron Co Ltd	Hanpin Electron Co Ltd
+00 20 7a	"MIDI-hardware" R.Sowa	"MIDI-hardware" R.Sowa
+00 20 7b	Beyond Music Industrial Ltd	Beyond Music Industrial Ltd
+00 20 7c	Kiss Box B.V.	Kiss Box B.V.
+00 20 7d	Misa Digital Technologies Ltd	Misa Digital Technologies Ltd
+00 20 7e	AI Musics Technology Inc	AI Musics Technology Inc
+20	Passac	Passac
+21	SIEL	SIEL
+22	Synthaxe (UK)	Synthaxe (UK)
+23	Stepp	Stepp
+24	Hohner	Hohner
+25	Twister	Twister
+26	Solton	Solton
+27	Jellinghaus MS	Jellinghaus MS
+28	Southworth Music Systems	Southworth Music Systems
+29	PPG (Germany)	PPG (Germany)
+2a	JEN	JEN
+2b	Solid State Logic Organ Systems	Solid State Logic Organ Systems
+2c	Audio Veritrieb-P. Struven	Audio Veritrieb-P. Struven
+2d	Neve	Neve
+2e	Soundtracs Ltd.	Soundtracs Ltd.
+2f	Elka	Elka
+30	Dynacord	Dynacord
+31	Intercontinental Electronics SpA	Intercontinental Electronics SpA
+32	Drawmer	Drawmer
+33	Clavia Digital Instruments	Clavia Digital Instruments
+34	Audio Architecture	Audio Architecture
+35	GeneralMusic Corp. c/o	GeneralMusic Corp. c/o
+36	Cheetah Marketing	Cheetah Marketing
+37	C.T.M.	C.T.M.
+38	Simmons UK	Simmons UK
+39	Soundcraft Electronics	Soundcraft Electronics
+3a	Steinberg GMBH c/o	Steinberg GMBH c/o
+3b	Wersi Gmbh	Wersi Gmbh
+3c	AVAB Niethammer AB	AVAB Niethammer AB
+3d	Digigram	Digigram
+3e	Waldorf Electronics GmbH	Waldorf Electronics GmbH
+3f	Quasimidi	Quasimidi
+00 40 00	Crimson Technology Inc.	Crimson Technology Inc.
+00 40 01	Softbank Mobile Corp	Softbank Mobile Corp
+00 40 02	仮ナンバーとして使用中	仮ナンバーとして使用中
+00 40 03	D&M Holdings Inc.	D&M Holdings Inc.
+40	Kawai Musical Instruments MFG. CO. Ltd	Kawai Musical Instruments MFG. CO. Ltd
+41	Roland Corporation	Roland Corporation
+42	Korg Inc.	Korg Inc.
+43	Yamaha Corporation	Yamaha Corporation
+44	Casio Computer Co. Ltd	Casio Computer Co. Ltd
+46	Kamiya Studio Co. Ltd	Kamiya Studio Co. Ltd
+47	Akai Electric Co. Ltd.	Akai Electric Co. Ltd.
+48	Victor Company of Japan, Ltd.	Victor Company of Japan, Ltd.
+49	（明創社）	（明創社）
+4a	（星野楽器）	（星野楽器）
+4b	Fujitsu Limited	Fujitsu Limited
+4c	Sony Corporation	Sony Corporation
+4d	（日伸音波研究所）	（日伸音波研究所）
+4e	Teac Corporation	Teac Corporation
+50	Matsushita Electric Industrial Co. , Ltd	Matsushita Electric Industrial Co. , Ltd
+51	Fostex Corporation	Fostex Corporation
+52	Zoom Corporation	Zoom Corporation
+53	（緑電子工業株式会社）	（緑電子工業株式会社）
+54	Matsushita Communication Industrial Co., Ltd.	Matsushita Communication Industrial Co., Ltd.
+55	Suzuki Musical Instruments MFG. Co., Ltd.	Suzuki Musical Instruments MFG. Co., Ltd.
+56	Fuji Sound Corporation Ltd.	Fuji Sound Corporation Ltd.
+57	Acoustic Technical Laboratory, Inc.	Acoustic Technical Laboratory, Inc.
+59	Faith, Inc.	Faith, Inc.
+5a	Internet Corporation	Internet Corporation
+5c	Seekers Co. Ltd.	Seekers Co. Ltd.
+5f	SD Card Association	SD Card Association

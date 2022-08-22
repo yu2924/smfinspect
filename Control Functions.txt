@@ -1,0 +1,128 @@
+00	Bank Select	Bank
+01	Modulation Wheel	ModWh
+02	Breath Controller	Breath
+03	Control 3 (Undefined)	CC3
+04	Foot Controller	Foot
+05	Portamento Time	ProtaT
+06	Data Entry MSB	DataEnt
+07	Channel Volume	Volume
+08	Balance	Balance
+09	Control 9 (Undefined)	CC9
+0a	Pan	Pan
+0b	Expression Controller	Expr
+0c	Effect Control 1	Effect1
+0d	Effect Control 2	Effect2
+0e	Control 14 (Undefined)	CC14
+0f	Control 15 (Undefined)	CC15
+10	General Purpose Controller 1	Gen1
+11	General Purpose Controller 2	Gen2
+12	General Purpose Controller 3	Gen3
+13	General Purpose Controller 4	Gen4
+14	Control 20 (Undefined)	CC20
+15	Control 21 (Undefined)	CC21
+16	Control 22 (Undefined)	CC22
+17	Control 23 (Undefined)	CC23
+18	Control 24 (Undefined)	CC24
+19	Control 25 (Undefined)	CC25
+1a	Control 26 (Undefined)	CC26
+1b	Control 27 (Undefined)	CC27
+1c	Control 28 (Undefined)	CC28
+1d	Control 29 (Undefined)	CC29
+1e	Control 30 (Undefined)	CC30
+1f	Control 31 (Undefined)	CC31
+20	LSB for Bank Select	BankLSB
+21	LSB for Modulation Wheel	ModWhLSB
+22	LSB for Breath Controller	BreathLSB
+23	LSB for Control 3 (Undefined)	CC3LSB
+24	LSB for Foot Controller	FootLSB
+25	LSB for Portamento Time	ProtaTLSB
+26	LSB for Data Entry	DataEntLSB
+27	LSB for Channel Volume	VolumeLSB
+28	LSB for Balance	BalanceLSB
+29	LSB for Control 9 (Undefined)	CC9LSB
+2a	LSB for Pan	PanLSB
+2b	LSB for Expression Controller	ExprLSB
+2c	LSB for Effect control 1	Effect1LSB
+2d	LSB for Effect control 2	Effect2LSB
+2e	LSB for Control 14 (Undefined)	CC14LSB
+2f	LSB for Control 15 (Undefined)	CC15LSB
+30	LSB for General Purpose Controller 1	Gen1LSB
+31	LSB for General Purpose Controller 2	Gen2LSB
+32	LSB for General Purpose Controller 3	Gen3LSB
+33	LSB for General Purpose Controller 4	Gen4LSB
+34	LSB for Control 20 (Undefined)	CC20LSB
+35	LSB for Control 21 (Undefined)	CC21LSB
+36	LSB for Control 22 (Undefined)	CC22LSB
+37	LSB for Control 23 (Undefined)	CC23LSB
+38	LSB for Control 24 (Undefined)	CC24LSB
+39	LSB for Control 25 (Undefined)	CC25LSB
+3a	LSB for Control 26 (Undefined)	CC26LSB
+3b	LSB for Control 27 (Undefined)	CC27LSB
+3c	LSB for Control 28 (Undefined)	CC28LSB
+3d	LSB for Control 29 (Undefined)	CC29LSB
+3e	LSB for Control 30 (Undefined)	CC30LSB
+3f	LSB for Control 31 (Undefined)	CC31LSB
+40	Damper Pedal on/off	Damper
+41	Portamento On/Off	Port
+42	Sostenuto On/Off	Sost
+43	Soft Pedal On/Off	Soft
+44	Legato Footswitch	Legato
+45	Hold 2	Hold2
+46	Sound Controller 1 (Sound Variation)	SndCtrl1
+47	Sound Controller 2 (Timbre/Harmonic Intens.)	SndCtrl2
+48	Sound Controller 3 (Release Time)	SndCtrl3
+49	Sound Controller 4 (Attack Time)	SndCtrl4
+4a	Sound Controller 5 (Brightness)	SndCtrl5
+4b	Sound Controller 6 (Decay Time)	SndCtrl6
+4c	Sound Controller 7 (Vibrato Rate)	SndCtrl7
+4d	Sound Controller 8 (Vibrato Depth)	SndCtrl8
+4e	Sound Controller 9 (Vibrato Delay)	SndCtrl9
+4f	Sound Controller 10 (undefined)	SndCtrl10
+50	General Purpose Controller 5	Gen5
+51	General Purpose Controller 6	Gen6
+52	General Purpose Controller 7	Gen7
+53	General Purpose Controller 8	Gen8
+54	Portamento Control	PortCtrl
+55	Control 85 (Undefined)	CC85
+56	Control 86 (Undefined)	CC86
+57	Control 87 (Undefined)	CC87
+58	High Resolution Velocity Prefix	VelPfx
+59	Control 89 (Undefined)	CC89
+5a	Control 90 (Undefined)	CC90
+5b	Effects 1 Depth	Effect1
+5c	Effects 2 Depth (Tremolo)	Effect2
+5d	Effects 3 Depth	Effect3
+5e	Effects 4 Depth (Celeste)	Effect4
+5f	Effects 5 Depth (Phaser)	Effect5
+60	Data Increment	Inc
+61	Data Decrement	Dec
+62	Non-Registered Parameter Number LSB	NRPNLSB
+63	Non-Registered Parameter Number MSB	NRPNMSB
+64	Registered Parameter Number LSB	RPNLSB
+65	Registered Parameter Number MSB	RPNMSB
+66	Control 102 (Undefined)	CC102
+67	Control 103 (Undefined)	CC103
+68	Control 104 (Undefined)	CC104
+69	Control 105 (Undefined)	CC105
+6a	Control 106 (Undefined)	CC106
+6b	Control 107 (Undefined)	CC107
+6c	Control 108 (Undefined)	CC108
+6d	Control 109 (Undefined)	CC109
+6e	Control 110 (Undefined)	CC110
+6f	Control 111 (Undefined)	CC111
+70	Control 112 (Undefined)	CC112
+71	Control 113 (Undefined)	CC113
+72	Control 114 (Undefined)	CC114
+73	Control 115 (Undefined)	CC115
+74	Control 116 (Undefined)	CC116
+75	Control 117 (Undefined)	CC117
+76	Control 118 (Undefined)	CC118
+77	Control 119 (Undefined)	CC119
+78	All Sound Off	AllSndOff
+79	Reset All Controllers	RstAllCtrl
+7a	Local Control On/Off	LocalCtrl
+7b	All Notes Off	AllNtsOff
+7c	Omni Mode Off	OmniOff
+7d	Omni Mode On	OmniOn
+7e	Mono Mode On	MonoOn
+7f	Poly Mode On	PolyOn
